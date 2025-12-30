@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa74d387.css",
+    "main.js": "/static/js/main.80906419.js",
+    "static/media/Screenshot_1766897677.png": "/static/media/Screenshot_1766897677.60ed8870f34922476ce9.png",
+    "static/media/Screenshot_1766897724.png": "/static/media/Screenshot_1766897724.bae3d3bd5d98aa3f7c5f.png",
+    "static/media/Screenshot_1766897714.png": "/static/media/Screenshot_1766897714.c1381620d1d27063c662.png",
+    "static/media/Screenshot_1766897738.png": "/static/media/Screenshot_1766897738.b71fadca02d4395a98aa.png",
+    "static/media/Screenshot_1766897706.png": "/static/media/Screenshot_1766897706.bf10f0663e64036200af.png",
+    "static/media/Screenshot_1767084533.png": "/static/media/Screenshot_1767084533.0f687bb29cd3b9fd3f5f.png",
+    "static/media/cook-book.png": "/static/media/cook-book.026ade6b29b7cc929501.png",
+    "index.html": "/index.html",
+    "main.fa74d387.css.map": "/static/css/main.fa74d387.css.map",
+    "main.80906419.js.map": "/static/js/main.80906419.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa74d387.css",
+    "static/js/main.80906419.js"
+  ]
+}
