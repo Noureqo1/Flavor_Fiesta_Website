@@ -165,11 +165,44 @@
 }
 
 @media (max-width: 600px) {
+  .developers {
+    padding: 3rem 0;
+  }
+
+  .developers .container {
+    padding: 0 1rem;
+  }
+
   .team-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
   }
 
   .team-card {
     max-width: 100%;
+    padding: 1.5rem 1rem;
+    border-radius: 15px;
+  }
+
+  .member-avatar {
+    width: 70px;
+    height: 70px;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .team-card h3 {
+    font-size: 0.95rem;
+  }
+
+  .member-role {
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+
+  .member-socials a {
+    width: 32px;
+    height: 32px;
+    font-size: 0.9rem;
   }
 }

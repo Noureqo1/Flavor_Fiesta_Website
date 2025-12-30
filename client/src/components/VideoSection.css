@@ -166,17 +166,55 @@
 }
 
 @media (max-width: 768px) {
+  .video-section {
+    padding: 3rem 0;
+  }
+
+  .video-section .container {
+    padding: 0 1rem;
+  }
+
   .video-features {
     grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .video-feature {
+    padding: 1rem;
+  }
+
+  .feature-num {
+    font-size: 2rem;
+  }
+
+  .video-feature h4 {
+    font-size: 1rem;
+  }
+
+  .video-feature p {
+    font-size: 0.85rem;
   }
 
   .thumbnail-content h3 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+  }
+
+  .thumbnail-content p {
+    font-size: 0.85rem;
   }
 
   .play-button {
+    width: 50px;
+    height: 50px;
+    font-size: 1rem;
+  }
+
+  .video-icon-wrapper {
     width: 60px;
     height: 60px;
-    font-size: 1.2rem;
+  }
+
+  .video-icon {
+    font-size: 2rem;
   }
 }
