@@ -52,18 +52,18 @@ const VideoSection = ({ data }) => {
         <div className="video-features">
           <div className="video-feature">
             <span className="feature-num">01</span>
-            <h4>Easy Navigation</h4>
-            <p>Intuitive interface designed for quick recipe discovery</p>
+            <h4>Browse & Search</h4>
+            <p>Find recipes by ingredients, cuisine, or cooking time</p>
           </div>
           <div className="video-feature">
             <span className="feature-num">02</span>
-            <h4>Step-by-Step Guides</h4>
-            <p>Follow along with detailed cooking instructions</p>
+            <h4>Cooking Timer</h4>
+            <p>Built-in timer keeps you on track while cooking</p>
           </div>
           <div className="video-feature">
             <span className="feature-num">03</span>
-            <h4>Smart Features</h4>
-            <p>AI-powered recommendations based on your preferences</p>
+            <h4>Cloud Sync</h4>
+            <p>Save and sync your recipes across all devices</p>
           </div>
         </div>
       </div>
